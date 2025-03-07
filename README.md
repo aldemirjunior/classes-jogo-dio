@@ -51,8 +51,3 @@ Ao final deve se exibir uma mensagem:
   guerreiro atacou usando espada
 
 Bons estudos 😉
-XP 3360/3553
-NÍVEL 7
-5/5
-CONTEÚDOS
-INFORMAÇÕES
